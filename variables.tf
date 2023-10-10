@@ -1,7 +1,3 @@
-variable "vpc" {
-  type = string
-}
-
 variable "environnement" {
   type = string
 }
